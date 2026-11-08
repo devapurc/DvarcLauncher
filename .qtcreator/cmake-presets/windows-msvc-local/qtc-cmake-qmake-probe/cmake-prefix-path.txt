@@ -1,0 +1,1 @@
+D:/programacion/cpp/dvarcLauncher/cmake/vcpkg/installed/x64-windows/debug;D:/programacion/cpp/dvarcLauncher/cmake/vcpkg/installed/x64-windows;C:/Qt/6.8.3/msvc2022_64
